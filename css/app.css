@@ -1,0 +1,9 @@
+.inputCant {
+	width: 40px;
+}
+.grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 10px;
+	/* grid-template-rows: 100px; */
+}
