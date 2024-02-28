@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pedido": "json-server --watch menu.json"
+    "start": "json-server --watch menu.json"
   },
   "author": "",
   "license": "ISC",

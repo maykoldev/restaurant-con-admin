@@ -134,23 +134,21 @@
     {
       "nombre": "sara",
       "id": 1
+    },
+    {
+      "nombre": "jhon",
+      "id": 2
     }
   ],
   "mesero": [
     {
-      "id": 0
-    },
-    {
-      "nombre": "Miguel",
+      "nombre": "maykol",
       "id": 1
     }
   ],
   "usuarios": [
     {
-      "id": 0
-    },
-    {
-      "nombre": "miguel",
+      "nombre": "maykol",
       "id": 1
     }
   ],
@@ -178,6 +176,27 @@
         }
       ],
       "id": 1
+    },
+    {
+      "mesa": "1",
+      "hora": "16:54",
+      "pedido": [
+        {
+          "id": 1,
+          "nombre": "Pizza pequena",
+          "precio": 10,
+          "categoria": 1,
+          "cantidad": 1
+        },
+        {
+          "id": 8,
+          "nombre": "Jugo de naranja",
+          "precio": 2,
+          "categoria": 3,
+          "cantidad": 4
+        }
+      ],
+      "id": 2
     }
   ]
 }
